@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-=rfo(lo163!ndc15_7outp_n#6if=vsmdebidt_4v#so4nd%ok
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['hearthopefoundation.vercel.app','hearthopefoundation.com','mtcpvt.com']
+ALLOWED_HOSTS = ['hearthopefoundation.vercel.app','hearthopefoundation.com','mtcpvt.com','mhassan07.pythonanywhere.com']
 
 
 # Application definition
